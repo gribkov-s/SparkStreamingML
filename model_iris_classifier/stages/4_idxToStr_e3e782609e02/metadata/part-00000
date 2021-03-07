@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.IndexToString","timestamp":1615122642025,"sparkVersion":"2.4.4","uid":"idxToStr_e3e782609e02","paramMap":{"inputCol":"prediction","labels":["setosa","virginica","versicolor"],"outputCol":"speciesPred"},"defaultParamMap":{"outputCol":"idxToStr_e3e782609e02__output"}}
